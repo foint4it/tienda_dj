@@ -1,0 +1,7 @@
+# git ignore
+tienda/secret.json
+tienda/fbkey.json
+#
+tienda/applications/home/migrations/*
+#
+tienda/applications/users/migrations/*
